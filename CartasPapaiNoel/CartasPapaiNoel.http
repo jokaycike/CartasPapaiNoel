@@ -1,0 +1,6 @@
+@CartasPapaiNoel_HostAddress = http://localhost:5254
+
+GET {{CartasPapaiNoel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
